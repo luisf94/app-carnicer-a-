@@ -266,14 +266,3 @@ git push -u origin main
 
 ---
 
-# 6. Resultado esperado
-
-Al subir estos archivos a GitHub tendrás:
-
-* Página inicial funcional
-* Menú interactivo
-* Diseño responsive básico
-* Seguimiento de pedidos
-* Documentación organizada
-* Proyecto listo para seguir desarrollándose
-*
